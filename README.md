@@ -1,6 +1,4 @@
-  
-   # BCA1SEM DART PROGRAMMING
-   # GIT
+# GIT
   1. git config --global user.name "your name"
   2. git config --global user.email "your email" 
   
@@ -16,6 +14,6 @@
     2. git commit -m "your message here"
     3. git push
 
-
+ # BCA1SEM DART PROGRAMMING
 
  ## INTRODUCTION
